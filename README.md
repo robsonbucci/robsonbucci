@@ -42,7 +42,7 @@
 
 ### Desenvolvimento Web
 
-![Staks](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,wordpress,firebase)&nbsp;
+![Staks](https://skillicons.dev/icons?i=html,css,styledcomponents,sass,bootstrap,tailwind,wordpress,firebase)&nbsp;
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" width="50" style="display:inline" alt="CentOs"/>
 
 ### DevOps
