@@ -1,54 +1,101 @@
-### Olá, eu sou Robson Messias de Oliveira 👋
+&nbsp;
 
-#### Desenvolvedor Full Stack e Administrador de Servidores
+<h3 align="center">
 
----
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_latte&quote=Trabalhe+com+o+que+você+ama+e+nunca+mais+precisará+trabalhar+na+vida&author=Confúcio.)
+</a></h3>
 
-#### Sobre Mim
-Profissional experiente no desenvolvimento de aplicações web e em administração de servidores Linux (CentOS, Debian e Ubuntu). Habilidades em criação de hospedagens, configuração de domínios, DNS, SSL e automação de processos de CI/CD. Capaz de desenvolver sites responsivos e APIs REST, com conhecimento profundo em bancos de dados relacionais e NoSQL. Reutilizei a API da empresa, em que trabalhava, para novos serviços, facilitando a experiência dos clientes, e criei uma integração que atraiu novos clientes para a empresa.
+&nbsp;
 
----
+<h1 align="center">Olá, meu nome é Robson Messias👋</a></h1>
 
-#### 🛠️ Habilidades Técnicas
+<h2 align="center">Software Developer | FullStack | JavaScript | NodeJS | PHP | React | Mysql | MongoDB | PostgreSQL</a></h2>
 
-##### Administração de Servidores
-![CentOS](https://img.shields.io/badge/CentOS-7/8-blue)
-![Debian](https://img.shields.io/badge/Debian-red)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange)
+&nbsp;
 
-##### Desenvolvimento Web
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-3C873A?logo=javascript&logoColor=white)
+### Profissional experiente no desenvolvimento de aplicações web e em administração de servidores Linux (CentOS, Debian e Ubuntu). Habilidades em criação de hospedagens, configuração de domínios, DNS, SSL e automação de processos de CI/CD. Capaz de desenvolver sites responsivos e APIs REST, com conhecimento profundo em bancos de dados relacionais e NoSQL.
 
-##### Criação de APIs REST
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-
-##### Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-##### Stack de Desenvolvimento
-![MERN](https://img.shields.io/badge/MERN-4CAF50?logo=mongodb&logoColor=white)
-
-##### Automação de Processos CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-
-##### Conteinerização
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+&nbsp;
 
 ---
 
-⚡ Fato divertido: Eu amo café ☕
+### ⚡Fato divertido: Eu amo café ☕
 
----
+&nbsp;
 
-#### 📫 Contato
-- **Email:** [dev.robsonmessias@gmail.com](mailto:dev.robsonmessias@gmail.com)
-- **LinkedIn:** [Robson Messias de Oliveira](https://www.linkedin.com/in/robson-messias)
-- **GitHub:** [robsonbucci](https://github.com/robsonbucci)
+## 🛠️ Habilidades Técnicas
+
+### Administração de Servidores
+
+![Staks](https://skillicons.dev/icons?i=ubuntu)
+![Staks](https://skillicons.dev/icons?i=debian)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" width="43" style="display:inline" alt="CentOs"/>
+
+### JavaScript
+
+![Staks](https://skillicons.dev/icons?i=javascript,nodejs,express,react,vue,angular,npm,yarn,redux,jest,webpack,babel,vite)
+
+### UI/UX
+
+![Staks](https://skillicons.dev/icons?i=figma,materialui)&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" width="50" style="display:inline" alt="CentOs"/>
+
+### Desenvolvimento Web
+
+![Staks](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,wordpress,firebase)&nbsp;
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" width="50" style="display:inline" alt="CentOs"/>
+
+### DevOps
+
+![Staks](https://skillicons.dev/icons?i=bash,docker)&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="50" style="display:inline" alt="CentOs"/>
+![Staks](https://skillicons.dev/icons?i=jenkins,nginx)
+
+### Controle de Versão e CI/CD
+
+![Staks](https://skillicons.dev/icons?i=git,github,gitlab,azure)
+
+### Minhas Ferramentas
+
+![Staks](https://skillicons.dev/icons?i=vscode,postman)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="50" style="display:inline" alt="CentOs"/>
+
+### Criação de APIs REST
+
+![Staks](https://skillicons.dev/icons?i=nodejs,express)
+
+### Bancos de Dados
+
+![Staks](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,redis)&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" style="display:inline" alt="CentOs"/>
+<img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="50" style="display:inline" alt="CentOs"/>
+
+### MQTT
+
+![Staks](https://skillicons.dev/icons?i=rabbitmq)
+
+### PHP
+
+![Staks](https://skillicons.dev/icons?i=php)
+
+### Cloud
+
+![Staks](https://skillicons.dev/icons?i=aws,googlecloud,azure)
+
+### Aprendendo:
+
+![Staks](https://skillicons.dev/icons?i=typescript,next)
+
+&nbsp;
+
+## 📫 Contato
+
+[![Staks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/robson-messias)
+[![Staks](https://skillicons.dev/icons?i=github)](https://github.com/robsonbucci)
+[![Staks](https://skillicons.dev/icons?i=gmail)](mailto:dev.robsonmessias@gmail.com)
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=robsonbucci&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
