@@ -98,14 +98,4 @@
 
 ## 📊 &nbsp;Stats
 
-![GitHub Profile 3D Contrib](profile-3d-contrib/profile-gitblock.svg)
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/robsonbucci/robsonbucci/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsonbucci/robsonbucci/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/robsonbucci/robsonbucci/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=robsonbucci&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
