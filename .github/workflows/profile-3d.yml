@@ -1,26 +1,19 @@
-name: GitHub-Profile-3D-Contrib-fixed
-
+name: Full-year calendar
 on:
-  schedule: # Executa diariamente às 11:00 UTC (08:00 BRT)
-    - cron: '0 11 * * *'
-  workflow_dispatch:
-
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Pull latest changes
-        run: git pull --force origin main
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate full-year calendar SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
